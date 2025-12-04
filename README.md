@@ -1,123 +1,152 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" style="max-width: 100%; border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+  <img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" style="max-width: 100%;">
 </p>
 
-<h1 align="center">💻 Ariana Oyola Silva <span style="color: #58a6ff;">|</span> Engineering Systems Student</h1>
+<h1 align="center">Ariana Oyola Silva</h1>
+<p align="center">
+  <b>Estudiante de Ingeniería de Sistemas · Front-End · UX/UI</b>
+</p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Focus-UX%2FUI%20%26%20FrontEnd-blueviolet?style=for-the-badge&logo=figma" alt="Enfoque UX/UI"/>
-  <img src="https://img.shields.io/badge/Stack-React%20%26%20Mobile-61DAFB?style=for-the-badge&logo=react" alt="React Stack"/>
- <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=for-the-badge&logo=github" alt="Open to Collaborate"/>
+  Transformando ideas en interfaces funcionales, limpias y centradas en el usuario.
 </p>
 
 ---
 
+<!-- Hero con GIF o imagen -->
+<p align="center">
+  <!-- Reemplaza la URL por tu propio GIF/imagen -->
+  <img src="AQUI_VA_TU_GIF_O_IMAGEN" alt="Ariana trabajando en proyectos front-end" width="220">
+</p>
+
+---
+
+## Contacto Rápido
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Visitar%20perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ariana Oyola">
+  </a>
+  <a href="mailto:aoyolasi30@ucvvirtual.edu.pe">
+    <img src="https://img.shields.io/badge/Correo-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Ariana Oyola">
+  </a>
+  <a href="#" title="Próximamente">
+    <img src="https://img.shields.io/badge/Portfolio-v2.0%20en%20camino-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Ariana Oyola">
+  </a>
+</p>
+
+---
+
+## Enfoque actual
+
+> Intersección entre diseño de experiencia de usuario (UX/UI) y desarrollo Front-End. Equilibrio entre estética, accesibilidad y rendimiento.
+
+---
+
+## Hoja de ruta Q4 2025
+
 <table>
   <tr>
-    <td width="60%" valign="top" style="border: none;">
-      <h2>👋 ¡Hola! Bienvenid@ a mi Hub Digital</h2>
-      <p>
-        Soy una estudiante de <b>Ingeniería de Sistemas</b> apasionada por crear experiencias digitales que no solo funcionan, sino que también enamoran.
-        <br><br>
-        🚀 Mi misión es fusionar la <b>lógica del backend</b> con la <b>creatividad del diseño UX/UI</b> para construir aplicaciones web y móviles de alto impacto.
-      </p>
-      <h3>🌐 Conecta & Colabora (Botones Premium)</h3>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/">
-          <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
-        </a>
-        <br>
-        <a href="mailto:aoyolasi30@ucvvirtual.edu.pe">
-          <img src="https://img.shields.io/badge/Email-Enviar%20Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
-        </a>
-      </p>
+    <th>Área de enfoque</th>
+    <th>Objetivo principal</th>
+    <th>Estado</th>
+  </tr>
+  <tr>
+    <td><b>Front-End avanzado</b></td>
+    <td>Dominar ReactJS (gestión de estado, Hooks, componentes reutilizables y buenas prácticas).</td>
+    <td>
+      <img src="https://img.shields.io/badge/En%20curso-FFC300?style=flat-square" alt="En curso">
     </td>
-    <td width="40%" valign="center" style="border: none;">
-      <p align="center">
-        <img src="https://i.pinimg.com/originals/a2/dc/96/a2dc9668f2cf170fe3efeb263128b0e7.gif" alt="Coding GIF" width="100%" style="border-radius: 15px;"/>
-      </p>
+  </tr>
+  <tr>
+    <td><b>Desarrollo móvil</b></td>
+    <td>Finalizar curso de Flutter (Dart) y publicar primera app en Play Store.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Planificado-999999?style=flat-square" alt="Planificado">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Certificación UX/UI</b></td>
+    <td>Obtener certificación oficial en UX/UI Design (Google o Nielsen Norman Group).</td>
+    <td>
+      <img src="https://img.shields.io/badge/Próximo-32CD32?style=flat-square" alt="Próximo">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Proyectos académicos</b></td>
+    <td>Terminar el semestre con proyectos destacados en Arquitectura de Sistemas.</td>
+    <td>
+      <img src="https://img.shields.io/badge/En%20progreso-1E90FF?style=flat-square" alt="En progreso">
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## Stack de tecnología
 
-<p align="center">
+### Lenguajes, Web y Bases de Datos
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,flutter,dart,php,mysql,firebase,git,github,vscode,figma&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,firebase&perline=7" />
+  </a>
+</p>
+
+### Diseño, organización y control de versiones
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,trello&perline=6" />
   </a>
 </p>
 
 ---
 
-## 🎯 Hoja de Ruta (Q4 2025)
+## Proyectos seleccionados
 
-| Estatus Visual | Área de Enfoque | Objetivo Principal |
-| :---: | :--- | :--- |
-| <img src="https://media.giphy.com/media/MHRx5STCLsgJ7a6p4s/giphy.gif" width="30"/> | **Front-End Avanzado** | Dominar **ReactJS** (Hooks, Context API, Redux). |
-| ⏳ | **Desarrollo Móvil** | Finalizar curso de **Flutter** y lanzar mi primera App. |
-| 🎯 | **Certificación UX/UI** | Obtener certificación oficial (Google/Nielsen Norman). |
-
----
-
-## 🚀 Proyectos Showcase (Visual)
-
-> **"Menos charla, más código."** Aquí una muestra visual de mis trabajos recientes.
+> Muestra orientada a resultados: del diseño en Figma al código funcional.
 
 <table>
-  <thead>
-    <tr>
-      <th width="20%">Preview (GIF/Img)</th>
-      <th width="60%">Proyecto & Rol</th>
-      <th width="20%">Stack & Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.dribbble.com/users/1615584/screenshots/14692643/media/8b9c2d9331c724dc6877fcd367b531a1.gif" width="150px" style="border-radius: 8px;">
-      </td>
-      <td>
-        <h3>🛍️ E-Commerce UCV (Proyecto Final)</h3>
-        <p>Desarrollo Full Stack. Implementé el carrito de compras dinámico, autenticación de usuarios y panel de administración.</p>
-      </td>
-      <td>
-        <code>PHP</code> <code>MySQL</code> <code>JS</code>
-        <br><br>
-        <a href="#">[Ver Código]</a> <br> <a href="#">[Live Demo]</a>
-      </td>
-    </tr>
-     <tr>
-      <td align="center">
-        <img src="https://cdn.dribbble.com/users/3943049/screenshots/14644438/media/b89637d24bc7a816911eb2d888e883a5.gif" width="150px" style="border-radius: 8px;">
-      </td>
-      <td>
-        <h3>📱 App de Gestión Personal (UX Focus)</h3>
-        <p>Diseño y prototipado de alta fidelidad. Me enfoqué en la accesibilidad y la fluidez de las micro-interacciones.</p>
-      </td>
-      <td>
-        <code>Figma</code> <code>Flutter</code>
-        <br><br>
-        <a href="#">[Ver Figma]</a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Proyecto</th>
+    <th>Impacto y rol</th>
+    <th>Tecnologías clave</th>
+    <th>Demo / Repositorio</th>
+  </tr>
+  <tr>
+    <td><b>Proyecto Final UCV</b></td>
+    <td>Desarrollo completo de la capa Front-End e integración con API para gestión de usuarios.</td>
+    <td><code>PHP</code> · <code>MySQL</code> · <code>JavaScript</code></td>
+    <td><a href="URL" target="_blank">Ver repositorio</a></td>
+  </tr>
+  <tr>
+    <td><b>App de Gestión Personal</b></td>
+    <td>Proyecto personal con enfoque en experiencia móvil, accesibilidad y microinteracciones.</td>
+    <td><code>HTML</code> · <code>CSS</code> · <code>Figma</code></td>
+    <td><a href="#" target="_blank">Ver demo (Figma/Web)</a></td>
+  </tr>
+  <tr>
+    <td><b>Landing Page Corporativa</b></td>
+    <td>Colaboración externa. Optimización de rendimiento (Lighthouse) y buenas prácticas SEO on-page.</td>
+    <td><code>HTML5</code> · <code>CSS3</code> · <code>SASS/LESS</code></td>
+    <td><a href="#" target="_blank">Visitar sitio web</a></td>
+  </tr>
 </table>
 
 ---
 
-## 📊 Dashboard de Actividad
+## Actividad y métricas de código
 
 <p align="center">
-    <a href="https://github.com/ArianaOyola">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" style="box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" style="box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
-  </a>
+  <a href="https://github.com/ArianaOyola">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats Ariana Oyola"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Lenguajes Ariana Oyola"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TJa716462yqgH7X1Y5/giphy.gif" width="30"/> 
-  <i>Fuera del código, me encontrarás jugando voleibol 🏐 o en una maratón de series.</i>
-</p>
+---
+
+## Un poco más sobre mí
+
+Fuera del código, juego voleibol y consumo muchas series y películas. Esa mezcla de disciplina, estrategia y storytelling también se refleja en cómo diseño experiencias digitales.
