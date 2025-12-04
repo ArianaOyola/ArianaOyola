@@ -9,7 +9,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Ariana Oyola</h2>
 
-### 👩🏻‍💻 &nbsp;Sobre Mí
+ 👩🏻‍💻 &nbsp;Sobre Mí
 
 💡 &nbsp;Soy una apasionada por explorar las nuevas tendencias en desarrollo y diseño web.\
 🎓 &nbsp;Actualmente estoy estudiando **Ingeniería de Sistemas** en la Universidad Cesar Vallejo.\
@@ -28,7 +28,7 @@
   </a>
 </p>
 <br>
-### ⚙️ &nbsp;Estadísticas de GitHub
+⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
 <a href="https://github.com/ArianaOyola">
