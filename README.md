@@ -1,93 +1,90 @@
-![Ariana Oyola Banner](https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" style="max-width: 100%;">
+</p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-# 👋 ¡Hola! Soy Ariana Oyola
+# 💻 Ariana Oyola Silva | Engineering Systems Student
 
-> **Estudiante de Ingeniería de Sistemas | Apasionada por Front-End y Diseño UX/UI**
-
----
-
-## 🤝🏻 Conecta conmigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/"><img src="https://img.shields.io/badge/-Ariana%20Oyola-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aoyolasi30@ucvvirtual.edu.pe"><img src="https://img-shields.com/badge/-Correo%20Electr%C3%B3nico-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-informational?style=flat&logo=github" alt="Estudiante de Ingeniería de Sistemas"/>
+  <img src="https://img.shields.io/badge/Enfoque-Front%20End%20%26%20UX%2FUI-red?style=flat&logo=react" alt="Enfoque en Front-End y UX/UI"/>
+  <img src="https://img.shields.io/badge/Disponible%20para-Colaboraciones-success?style=flat&logo=git" alt="Disponible para Colaboraciones"/>
 </p>
 
 ---
 
-## 👩🏻‍💻 Sobre Mí
+<img alt="Waving Hand" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+## 👋 ¡Hola! Bienvenid@ a mi Laboratorio Digital
 
-<p align="right">
-<img alt="Codificación" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='150'/>
-</p>
+> Actualmente transformando ideas en interfaces de usuario funcionales y atractivas. Mi pasión es la intersección entre el diseño (UX/UI) y la lógica de programación.
 
-* 💡 **Enfoque Principal:** Soy una apasionada por explorar las nuevas tendencias en desarrollo y diseño web.
-* 🎓 **Formación:** Actualmente estoy cursando **Ingeniería de Sistemas** en la Universidad Cesar Vallejo.
-* 🌱 **Especialización:** Me encuentro profundizando mis habilidades en **Front-End (HTML, CSS, JS), UX/UI, y Desarrollo de Aplicaciones Móviles**.
-* 🤝 **Colaboración:** Siempre abierta a conectar y discutir ideas sobre proyectos de tecnología o retos de diseño.
-* ✉️ **Contacto:** Correo directo para propuestas o consultas: `aoyolasi30@ucvvirtual.edu.pe`
-* 🤸 **Intereses Personales:** Fuera del código, disfruto mucho **jugar voleibol** y **ver series y películas**.
+### 🔗 Conecta y Colabora
 
-<br clear="right"/>
+| Contacto | Link |
+| :--- | :--- |
+| **LinkedIn (Red Profesional)** | <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/"><img src="https://img.shields.io/badge/-Ariana%20Oyola-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> |
+| **Correo Electrónico (Proyectos)** | <a href="mailto:aoyolasi30@ucvvirtual.edu.pe"><img src="https://img.shields.io/badge/-aoyolasi30@ucvvirtual.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a> |
+| **Portfolio Personal (Pendiente)** | *[Trabajando en mi portfolio v2.0 - ¡Pronto aquí!]* |
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🎯 Enfoque y Hoja de Ruta (Q4 2025)
 
-> Esta es la sección **más importante** para un desarrollador. ¡Muéstranos lo que puedes hacer!
-
-| Proyecto | Descripción | Tecnologías Clave | Ver Proyecto |
-| :--- | :--- | :--- | :--- |
-| **[Nombre del Proyecto 1]** | Una breve descripción de 1-2 líneas sobre el proyecto y qué problema resuelve. | `HTML` / `CSS` / `JavaScript` / `MySQL` | [Repositorio](URL) / [Demo](URL) |
-| **[Nombre del Proyecto 2]** | Un proyecto enfocado en UX/UI, como un rediseño de una aplicación o una landing page. | `Figma` / `CSS` / `UX/UI` | [Repositorio](URL) / [Demo](URL) |
-| **[Nombre del Proyecto 3]** | Un proyecto personal o académico donde uses Java/PHP o Firebase. | `Java` / `PHP` / `Firebase` | [Repositorio](URL) / [Demo](URL) |
-
----
-
-## 🔭 Metas y Próximos Pasos
-
-> Demuestra tu ambición y qué tecnologías estás aprendiendo **ahora mismo**.
-
-* ➡️ **Front-End:** Dominar un *framework* moderno (ej. **React** o **Vue.js**) para crear interfaces dinámicas.
-* ➡️ **Diseño:** Obtener la certificación **UX/UI Design de Google** (o similar).
-* ➡️ **Móvil:** Construir una aplicación funcional con **React Native** o **Flutter** este semestre.
-* ➡️ **Sistemas:** Profundizar en el diseño de bases de datos `NoSQL` como MongoDB.
+| Área de Enfoque | Objetivo Principal | Estatus |
+| :--- | :--- | :--- |
+| **Front-End Avanzado** | Dominar **ReactJS** para la gestión de estados y *Hooks*. | 🟡 En Curso |
+| **Desarrollo Móvil** | Finalizar el curso de **Flutter** (Dart) y lanzar mi primera app a la Play Store. | ⏳ Planificado |
+| **Certificación** | Obtener una certificación oficial en **UX/UI Design** (Google/Nielsen Norman Group). | 🟢 Próximo |
+| **Académico** | Finalizar el semestre con proyectos destacados en Arquitectura de Sistemas. | ✅ En Progreso |
 
 ---
 
-## 🏆 Habilidades Técnicas
+## 🛠️ Mi Stack de Tecnología y Herramientas
 
-### 🛠️ Mi Stack de Tecnología & Herramientas
-
+### Lenguajes de Programación, Web & BBDD
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,css,html,js,mysql,firebase,git,github,vscode,perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,firebase&perline=7" />
   </a>
 </p>
 
-### 🏅 Reconocimientos y Certificaciones (Opcional)
-
-* **[202X]** Mención Honorífica en el Concurso de Programación de la UCV.
-* **[202X]** Certificado de [Nombre del Curso] de [Plataforma: Coursera/Udemy/etc.].
-
----
-
-## 📊 Mi Actividad en GitHub
-
-<p align="center">
-<a href="https://github.com/ArianaOyola">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+### Diseño, Herramientas y Control de Versiones
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,trello&perline=6" />
+  </a>
 </p>
 
 ---
 
-## Resumen de los Cambios Clave:
+## 🚀 Proyectos Showcase (Prueba de Habilidad)
 
-1.  **Título y Subtítulo (`H1` y `blockquote`):** Se agregó un eslogan claro (`> Estudiante de Ingeniería de Sistemas | Apasionada por Front-End y Diseño UX/UI`) para que el visitante sepa inmediatamente el perfil de Ariana.
-2.  **Proyectos Destacados (NUEVO):** Esta sección es crucial. Muestra la **aplicación práctica** de las habilidades listadas. Usar una tabla facilita su lectura y comparación.
-3.  **Metas y Próximos Pasos (NUEVO):** Demuestra que Ariana tiene una **hoja de ruta** y es proactiva en su aprendizaje, lo cual es muy atractivo para reclutadores y colaboradores.
-4.  **Reconocimientos (NUEVO):** Si tiene algún premio, logro o certificado, esto añade una capa de **credibilidad y logro**.
-5.  **Separadores (`---`):** El uso de separadores horizontales hace que cada sección respire y mejore la organización visual.
+> **"Un buen desarrollador muestra código; un gran desarrollador muestra resultados."**
+
+| Proyecto | Impacto y Rol | Tecnologías Clave | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **[Proyecto Final UCV]** | Desarrollé la capa de front-end completa y la integración de la API para el manejo de usuarios. | `PHP` / `MySQL` / `JS` | [Ver Repositorio](URL) |
+| **[App de Gestión Personal]** | Proyecto personal enfocado en UX móvil. Me centré en la fluidez de la interfaz y la accesibilidad. | `HTML` / `CSS` / `Figma` | [Ver Demo (Figma/Web)] |
+| **[Landing Page Corporativa]** | Colaboración externa. Responsable de la optimización de rendimiento (Lighthouse score). | `HTML5` / `CSS3` (SASS/LESS) | [Visitar Sitio Web] |
+
+---
+
+## 📊 Dashboard de Actividad
+
+### 📈 Estadísticas de GitHub y Código
+
+<p align="center">
+  <a href="https://github.com/ArianaOyola">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
+
+  </p>
+
+### 🎧 Actividad Reciente (¡Visto en tiempo real!)
+
+* **🎶 Escuchando Ahora (Spotify/Last.fm):** *[Aquí un widget que muestra la última canción escuchada]*
+* **✍️ Última Actividad de Blog/Articulo:** *[Aquí un widget que muestra el último post publicado]*
+
+> *Nota: Fuera de la tecnología, soy una jugadora de voleibol y una gran fanática de las series y películas.*
+
+---
