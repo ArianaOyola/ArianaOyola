@@ -41,5 +41,4 @@
 <a href="mailto:aoyolasi30@ucvvirtual.edu.pe"><img src="https://img.shields.io/badge/-Correo%20Electr%C3%B3nico-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
------
-*Plantilla adaptada para Ariana Alejandra Oyola Silva.*
+
