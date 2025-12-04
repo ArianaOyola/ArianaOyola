@@ -1,101 +1,115 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" width="100%" style="border-radius: 10px;">
+</div>
 
-  <img src="https://media.giphy.com/media/u4UH78y78d1O0/giphy.gif" width="100%" />
+<br>
 
-  <h1 align="center">Hola, soy TU_NOMBRE 🔥</h1>
-  <h3 align="center">Namaste 🙏 Soy un Desarrollador Full Stack</h3>
+<h1 align="center">Hola, soy Ariana Oyola 👋</h1>
+<h3 align="center">Engineering Systems Student | Front-End & UX/UI Enthusiast</h3>
 
-  <h2 align="center">💫 Sobre Mí</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-informational?style=for-the-badge&logo=github&color=20232a" alt="Estudiante de Ingeniería de Sistemas"/>
+  <img src="https://img.shields.io/badge/Enfoque-Front%20End%20%26%20UX%2FUI-red?style=for-the-badge&logo=react&color=61dafb&logoColor=black" alt="Enfoque en Front-End y UX/UI"/>
+  <img src="https://img.shields.io/badge/Disponible-Colaboraciones-success?style=for-the-badge&logo=git&color=2ea44f" alt="Disponible para Colaboraciones"/>
+</div>
+
+<br>
+
+<table align="center" border="0" bgcolor="black">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eHdnOGNpYnd4ZXI1ZHE4aHpham14aXJ5eXJ4ZnI1M3Y0bHh5NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L20k5M7E6pW09rUCNB/giphy.gif" width="150px">
+    </td>
+    <td width="70%" align="left">
+      <h2>👾 ¿Quién Soy?</h2>
+      <p>
+        Soy estudiante de <b>Ingeniería de Sistemas</b> apasionada por transformar ideas en interfaces funcionales. Mi "laboratorio digital" se encuentra en la intersección entre el <b>Diseño (UX/UI)</b> y la lógica de programación.
+      </p>
+      <p>
+        A pesar de estudiar el ecosistema completo, mi verdadero punto fuerte es el <b>Front-End</b>, donde uno lógica y creatividad.
+      </p>
+      <p>
+        🚀 <b>Objetivo actual:</b> Dominar ReactJS y lanzar mi primera app con Flutter.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <h2>🧘‍♀️ Un poco más sobre mí</h2>
+  <p>🎨 Amante del Minimalismo en el código y el diseño.</p>
+  <p>🏐 Jugadora de Voleibol fuera de la pantalla.</p>
+  <p>🎬 Fanática del cine y las series.</p>
   
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-  <p align="left"> 
-    👋 Comencé mi viaje en el desarrollo de software con .NET MVC<br>
-    🌑 Trabajo en Front-end y diseño web mientras me enfoco en Data Science.<br>
-    🎓 Actualmente estoy cursando un grado en Ciencias de la Computación.<br>
-    🌱 Estoy aprendiendo sobre Inteligencia Artificial y Machine Learning.<br>
-    💬 Pregúntame sobre .NET Framework, Python o Full Stack Dev.<br>
-    ⚡ Dato curioso: ¡Amo la perfección!
-  </p>
-
   <br>
-
-  <p align="left">
-    <a href="https://github.com/TU_USUARIO">
-      <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-    </a>
-    <a href="https://twitter.com/TU_USUARIO">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/TU_USUARIO">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
   
-  <br><br>
+  <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:aoyolasi30@ucvvirtual.edu.pe">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-  <h3>🛠 Lenguajes y Herramientas que uso</h3>
+<br>
+
+<div align="center">
+  <h2>🔥 GitHub Status</h2>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="160em"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArianaOyola&theme=algolia&hide_border=true&bg_color=0d1117" height="160em"/>
+  </div>
+  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117" height="140em"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🛠 Mis Stacks</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,python,cs,js,dotnet,visualstudio,react,nodejs,mysql,mongodb,linux,azure&perline=14" />
+      <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,firebase,git,github,vscode,figma,notion,trello&perline=7&theme=dark" />
     </a>
   </p>
-
-  <br>
-
-  <h3>🔥 Mis Estadísticas de GitHub</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" height="180" alt="streak graph"  />
-  </div>
-  
-  <br>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-  </div>
-
-  <br>
-
-  <h3>💻 Tech Stack Detallado</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-
-  <br>
-
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-           <h3>🏆 Top Contributed Repo</h3>
-           <a href="https://github.com/TU_USUARIO/TU_REPO">
-             <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_FAVORITO&theme=radical" />
-           </a>
-        </td>
-        <td>
-           <h3>💬 Random Dev Quote</h3>
-           <img src="https://github-readme-quotes.vercel.app/api?theme=radical" height="180"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <br>
-
-  <h3>Support Me 💰</h3>
-  <a href="https://www.buymeacoffee.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-
-  <br><br>
-
-  <img src="https://i.pinimg.com/originals/3e/0f/65/3e0f65529f7f45b5971775f0a424266c.gif" width="100%" />
-
 </div>
+
+<br>
+
+<div align="center">
+  <h2>🚀 Proyectos Destacados</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Proyecto</th>
+        <th>Tecnologías</th>
+        <th>Rol</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>🎓 Proyecto Final UCV</b></td>
+        <td>PHP, MySQL, JS</td>
+        <td>Front-end & API Integration</td>
+      </tr>
+      <tr>
+        <td><b>📱 App de Gestión</b></td>
+        <td>HTML, CSS, Figma</td>
+        <td>UX Móvil & Accesibilidad</td>
+      </tr>
+      <tr>
+        <td><b>🏢 Landing Page Corp</b></td>
+        <td>HTML5, SASS</td>
+        <td>Optimización Lighthouse</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<hr>
+
+<p align="center">
+  <small>Hecho con ❤️ por Ariana Oyola</small>
+</p>
