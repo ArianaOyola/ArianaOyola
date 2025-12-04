@@ -1,4 +1,6 @@
-<img alt="Saludo" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Ariana Oyola</h2>
+![Ariana Oyola Banner](https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg)
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Ariana Oyola</h2>
 
 ### 👩🏻‍💻 &nbsp;Sobre Mí
 
