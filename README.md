@@ -1,85 +1,101 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" style="max-width: 100%;">
-</p>
+<div align="center">
 
-# 💻 Ariana Oyola Silva | Engineering Systems Student
+  <img src="https://media.giphy.com/media/u4UH78y78d1O0/giphy.gif" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-informational?style=flat&logo=github" alt="Estudiante de Ingeniería de Sistemas"/>
-  <img src="https://img.shields.io/badge/Enfoque-Front%20End%20%26%20UX%2FUI-red?style=flat&logo=react" alt="Enfoque en Front-End y UX/UI"/>
-  <img src="https://img.shields.io/badge/Disponible%20para-Colaboraciones-success?style=flat&logo=git" alt="Disponible para Colaboraciones"/>
-</p>
+  <h1 align="center">Hola, soy TU_NOMBRE 🔥</h1>
+  <h3 align="center">Namaste 🙏 Soy un Desarrollador Full Stack</h3>
 
----
+  <h2 align="center">💫 Sobre Mí</h2>
+  
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img alt="Waving Hand" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-## 👋 ¡Hola! Bienvenid@ a mi Laboratorio Digital
-
-> Actualmente transformando ideas en interfaces de usuario funcionales y atractivas. Mi pasión es la intersección entre el diseño (UX/UI) y la lógica de programación.
-
-### 🔗 Conecta y Colabora
-
-| Contacto | Link |
-| :--- | :--- |
-| **LinkedIn (Red Profesional)** | <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/"><img src="https://img.shields.io/badge/-Ariana%20Oyola-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> |
-| **Correo Electrónico (Proyectos)** | <a href="mailto:aoyolasi30@ucvvirtual.edu.pe"><img src="https://img.shields.io/badge/-aoyolasi30@ucvvirtual.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a> |
-| **Portfolio Personal (Pendiente)** | *[Trabajando en mi portfolio v2.0 - ¡Pronto aquí!]* |
-
----
-
-## 🎯 Enfoque y Hoja de Ruta (Q4 2025)
-
-| Área de Enfoque | Objetivo Principal | Estatus |
-| :--- | :--- | :--- |
-| **Front-End Avanzado** | Dominar **ReactJS** para la gestión de estados y *Hooks*. | 🟡 En Curso |
-| **Desarrollo Móvil** | Finalizar el curso de **Flutter** (Dart) y lanzar mi primera app a la Play Store. | ⏳ Planificado |
-| **Certificación** | Obtener una certificación oficial en **UX/UI Design** (Google/Nielsen Norman Group). | 🟢 Próximo |
-| **Académico** | Finalizar el semestre con proyectos destacados en Arquitectura de Sistemas. | ✅ En Progreso |
-
----
-
-## 🛠️ Mi Stack de Tecnología y Herramientas
-
-### Lenguajes de Programación, Web & BBDD
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,firebase&perline=7" />
-  </a>
-</p>
-
-### Diseño, Herramientas y Control de Versiones
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,trello&perline=6" />
-  </a>
-</p>
-
----
-
-## 🚀 Proyectos Showcase (Prueba de Habilidad)
-
-> **"Un buen desarrollador muestra código; un gran desarrollador muestra resultados."**
-
-| Proyecto | Impacto y Rol | Tecnologías Clave | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **[Proyecto Final UCV]** | Desarrollé la capa de front-end completa y la integración de la API para el manejo de usuarios. | `PHP` / `MySQL` / `JS` | [Ver Repositorio](URL) |
-| **[App de Gestión Personal]** | Proyecto personal enfocado en UX móvil. Me centré en la fluidez de la interfaz y la accesibilidad. | `HTML` / `CSS` / `Figma` | [Ver Demo (Figma/Web)] |
-| **[Landing Page Corporativa]** | Colaboración externa. Responsable de la optimización de rendimiento (Lighthouse score). | `HTML5` / `CSS3` (SASS/LESS) | [Visitar Sitio Web] |
-
----
-
-## 📊 Dashboard de Actividad
-
-### 📈 Estadísticas de GitHub y Código
-
-<p align="center">
-  <a href="https://github.com/ArianaOyola">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  </a>
-
+  <p align="left"> 
+    👋 Comencé mi viaje en el desarrollo de software con .NET MVC<br>
+    🌑 Trabajo en Front-end y diseño web mientras me enfoco en Data Science.<br>
+    🎓 Actualmente estoy cursando un grado en Ciencias de la Computación.<br>
+    🌱 Estoy aprendiendo sobre Inteligencia Artificial y Machine Learning.<br>
+    💬 Pregúntame sobre .NET Framework, Python o Full Stack Dev.<br>
+    ⚡ Dato curioso: ¡Amo la perfección!
   </p>
 
-> *Nota: Fuera de la tecnología, soy una jugadora de voleibol y una gran fanática de las series y películas.*
+  <br>
 
----
+  <p align="left">
+    <a href="https://github.com/TU_USUARIO">
+      <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+    </a>
+    <a href="https://twitter.com/TU_USUARIO">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/TU_USUARIO">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+  
+  <br><br>
+
+  <h3>🛠 Lenguajes y Herramientas que uso</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,python,cs,js,dotnet,visualstudio,react,nodejs,mysql,mongodb,linux,azure&perline=14" />
+    </a>
+  </p>
+
+  <br>
+
+  <h3>🔥 Mis Estadísticas de GitHub</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" height="180" alt="streak graph"  />
+  </div>
+  
+  <br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  </div>
+
+  <br>
+
+  <h3>💻 Tech Stack Detallado</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+
+  <br>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+           <h3>🏆 Top Contributed Repo</h3>
+           <a href="https://github.com/TU_USUARIO/TU_REPO">
+             <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_FAVORITO&theme=radical" />
+           </a>
+        </td>
+        <td>
+           <h3>💬 Random Dev Quote</h3>
+           <img src="https://github-readme-quotes.vercel.app/api?theme=radical" height="180"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <br>
+
+  <h3>Support Me 💰</h3>
+  <a href="https://www.buymeacoffee.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+
+  <br><br>
+
+  <img src="https://i.pinimg.com/originals/3e/0f/65/3e0f65529f7f45b5971775f0a424266c.gif" width="100%" />
+
+</div>
