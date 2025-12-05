@@ -61,9 +61,6 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="160em"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArianaOyola&theme=algolia&hide_border=true&bg_color=0d1117" height="160em"/>
   </div>
-  <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArianaOyola&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117" height="140em"/>
-</div>
 
 <br>
 
