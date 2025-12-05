@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/ArianaOyola/ArianaOyola/main/assets/ari.jpg" alt="Ariana Oyola Banner" width="100%" style="border-radius: 12px;">
 </div>
 
 <br>
@@ -8,130 +8,95 @@
 <h3 align="center">Engineering Systems Student | Front-End & UX/UI Enthusiast</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-informational?style=for-the-badge&logo=github&color=20232a" alt="Estudiante de Ingeniería de Sistemas"/>
-<img src="https://img.shields.io/badge/Enfoque-Front%20End%20%26%20UX%2FUI-red?style=for-the-badge&logo=react&color=61dafb&logoColor=black" alt="Enfoque en Front-End y UX/UI"/>
-<img src="https://img.shields.io/badge/Disponible-Colaboraciones-success?style=for-the-badge&logo=git&color=2ea44f" alt="Disponible para Colaboraciones"/>
+  <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Sistemas-informational?style=for-the-badge&logo=github&color=20232a" height="25"/>
+  <img src="https://img.shields.io/badge/Enfoque-Front%20End%20%26%20UX%2FUI-red?style=for-the-badge&logo=react&color=61dafb&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Disponible-Colaboraciones-success?style=for-the-badge&logo=git&color=2ea44f" height="25"/>
 </div>
 
 <br>
 
-<table align="center" border="0" bgcolor="black">
-<tr>
-<td width="30%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eHdnOGNpYnd4ZXI1ZHE4aHpham14aXJ5eXJ4ZnI1M3Y0bHh5NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L20k5M7E6pW09rUCNB/giphy.gif" width="150px">
-</td>
-<td width="70%" align="left">
-<h2>👾 ¿Quién Soy?</h2>
-<p>Soy estudiante de <b>Ingeniería de Sistemas</b> apasionada por transformar ideas en interfaces funcionales. Mi "laboratorio digital" se encuentra en la intersección entre el <b>Diseño (UX/UI)</b> y la lógica de programación.</p>
-<p>A pesar de estudiar el ecosistema completo, mi verdadero punto fuerte es el <b>Front-End</b>, donde uno lógica y creatividad.</p>
-<p>🚀 <b>Objetivo actual:</b> Dominar ReactJS y lanzar mi primera app con Flutter.</p>
-</td>
-</tr>
+<table align="center" border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/ArianaOyola/ArianaOyola/raw/f22fa04e42a59eb90d713bfae0d2ef2ee42a305e/assets/gif-1.gif" width="100%" style="border-radius: 8px;" alt="Avatar">
+    </td>
+    <td width="80%" align="left" valign="middle">
+      <h3>👾 ¿Quién Soy?</h3>
+      <p>Soy estudiante de <b>Ingeniería de Sistemas</b> apasionada por transformar ideas en interfaces funcionales. Mi "laboratorio digital" une el <b>Diseño (UX/UI)</b> y la lógica.</p>
+      <p>🚀 <b>Objetivo:</b> Dominar ReactJS y lanzar mi primera app con Flutter.</p>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<div align="center"><h2>🧘‍♀️ Un poco más sobre mí</h2></div>
-<table align="center" border="0" bgcolor="black">
-<tr>
-<td width="60%" align="left">
-<p>🎨 Amante del Minimalismo en el código y el diseño.</p>
-<p>🏐 Jugadora de Voleibol fuera de la pantalla.</p>
-<p>🎬 Fanática del cine y las series.</p>
-<br>
-<a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-<a href="mailto:aoyolasi30@ucvvirtual.edu.pe"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-</td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/L1R1TVTh2RhtD872IN/giphy.gif" width="100%" style="border-radius: 10px;">
-</td>
-</tr>
+<h3 align="center">🧘‍♀️ Un poco más sobre mí</h3>
+<table align="center" border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="80%" align="left" valign="middle">
+      <ul>
+        <li>🎨 <b>Minimalismo:</b> Amante de la simplicidad.</li>
+        <li>🏐 <b>Deporte:</b> Voleibol fuera de la pantalla.</li>
+        <li>🎬 <b>Hobby:</b> Cine y series.</li>
+      </ul>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/ArianaOyola/ArianaOyola/raw/fe00b0d1b2959193a38cc3a0497d1dbb602ac17f/assets/Gif-2.gif" width="100%" style="border-radius: 8px;" alt="Gif">
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<div align="center">
-<h2>🔥 GitHub Status</h2>
-<div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="160em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArianaOyola&theme=algolia&hide_border=true&bg_color=0d1117" height="160em"/>
-</div>
-</div>
+<h3 align="center">🚀 Proyectos Destacados</h3>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://github.com/ArianaOyola/ArianaOyola/raw/514f90f35f1fd6aebc07aea42b04f1a2a2ef2403/assets/img%202.jpeg" width="100%" style="border-radius: 8px;" alt="Collage">
+    </td>
+    <td width="75%" valign="middle" align="center">
+      <table width="98%">
+        <thead>
+          <tr>
+            <th align="left">📌 Proyecto</th>
+            <th align="center">🛠 Stack</th>
+            <th align="center">👩‍💻 Rol</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>🎓 Proyecto UCV</b></td>
+            <td align="center">
+               <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+               <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            </td>
+            <td align="center">Full Stack</td>
+          </tr>
+          <tr>
+            <td><b>📱 App Gestión</b></td>
+            <td align="center">
+               <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+               <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+            </td>
+            <td align="center">UX/UI</td>
+          </tr>
+          <tr>
+            <td><b>🏢 Landing Page</b></td>
+            <td align="center">
+               <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+               <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+            </td>
+            <td align="center">Performance</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<h2 align="center">🛠 Mis Stacks</h2>
-<table border="0" width="100%">
-<tr>
-<td width="60%" valign="top">
-<table border="0" width="100%">
-<tr>
-<td width="35%" align="center" valign="middle"><b>💻 Lenguajes</b></td>
-<td width="65%" align="left" valign="middle">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,js,html,css&theme=dark" /></a>
-</td>
-</tr>
-<tr>
-<td width="35%" align="center" valign="middle"><b>🗄️ BBDD</b></td>
-<td width="65%" align="left" valign="middle">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" /></a>
-</td>
-</tr>
-<tr>
-<td width="35%" align="center" valign="middle"><b>🎨 Herramientas</b></td>
-<td width="65%" align="left" valign="middle">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion&theme=dark" /></a>
-</td>
-</tr>
-</table>
-</td>
-<td width="40%" valign="middle" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" style="border-radius: 10px;">
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">🚀 Proyectos Destacados</h2>
-<table border="0" width="100%">
-<tr>
-<td width="40%" valign="middle" align="center">
-<img src="https://media.giphy.com/media/26tn33ai01UfQN36K/giphy.gif" width="95%" style="border-radius: 10px;">
-</td>
-<td width="60%" valign="top">
-<table>
-<thead>
-<tr>
-<th>Proyecto</th>
-<th>Tecnologías</th>
-<th>Rol</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>🎓 Proyecto UCV</b></td>
-<td>PHP, MySQL, JS</td>
-<td>Full Stack</td>
-</tr>
-<tr>
-<td><b>📱 App Gestión</b></td>
-<td>HTML, Figma</td>
-<td>UX/UI Mobile</td>
-</tr>
-<tr>
-<td><b>🏢 Landing Page</b></td>
-<td>HTML5, SASS</td>
-<td>Performance</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</table>
-
 <hr>
 
 <p align="center">
-<small>Hecho con ❤️ por Ariana Oyola</small>
+  <small>Hecho con ❤️ por Ariana Oyola</small>
 </p>
