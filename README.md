@@ -39,18 +39,28 @@
 
 <div align="center">
   <h2>🧘‍♀️ Un poco más sobre mí</h2>
-  <p>🎨 Amante del Minimalismo en el código y el diseño.</p>
-  <p>🏐 Jugadora de Voleibol fuera de la pantalla.</p>
-  <p>🎬 Fanática del cine y las series.</p>
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:aoyolasi30@ucvvirtual.edu.pe">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+  <table align="center" border="0" bgcolor="black">
+    <tr>
+      <td width="60%" align="left" valign="center">
+        <p>🎨 Amante del Minimalismo en el código y el diseño.</p>
+        <p>🏐 Jugadora de Voleibol fuera de la pantalla.</p>
+        <p>🎬 Fanática del cine y las series.</p>
+        
+        <br>
+        
+        <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva-57089231a/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+        </a>
+        <a href="mailto:aoyolasi30@ucvvirtual.edu.pe">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+        </a>
+      </td>
+      
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/L1R1TVTh2RhtD872IN/giphy.gif" width="100%" style="border-radius: 10px;">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -61,8 +71,7 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArianaOyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="160em"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArianaOyola&theme=algolia&hide_border=true&bg_color=0d1117" height="160em"/>
   </div>
-
-<br>
+</div> <br>
 
 <div align="center">
   <h2>🛠 Mis Stacks</h2>
