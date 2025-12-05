@@ -69,9 +69,25 @@
 
 <div align="center">
   <h2>🛠 Mis Stacks</h2>
+
+  <h3>💻 Lenguajes y Desarrollo Web</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,firebase,git,github,vscode,figma,notion,trello&perline=7&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,php,js,html,css&theme=dark" />
+    </a>
+  </p>
+
+  <h3>🗄️ Bases de Datos</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
+    </a>
+  </p>
+
+  <h3>🎨 Herramientas, Diseño y Otros</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,trello&theme=dark" />
     </a>
   </p>
 </div>
