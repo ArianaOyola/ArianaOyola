@@ -52,13 +52,14 @@
 <br />
 <br />
 <br />
-<img align="left" alt="coding-gif" width="400" src="https://github.com/ArianaOyola/ArianaOyola/blob/592a88e75f791b8601b392e2bb15d4913d18f698/assets/gif-1.gif" />
+<img align="left" alt="coding-gif" width="280" src="https://github.com/ArianaOyola/ArianaOyola/blob/1eb6ec34e89151bdb835b32dc95a3146f315eb40/assets/img%205.jpg" />
 <h3 align="center">🌸 Idiomas y herramientas que he puesto en mis manos </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,java,ts" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
 </div>
+<br />
 <br />
 <br />
 <h3 align="center">💻 Tech Stack 🎀</h3>
