@@ -21,19 +21,19 @@
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/ArianaOyola/ArianaOyola/blob/592a88e75f791b8601b392e2bb15d4913d18f698/assets/gif-1.gif" />
 
-<h3 align="left">💫 About Me</h3>
+<h3 align="left">💫 Un poco sobre mí 💗</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
+  🌸 Actualmente estoy desarrollando mis habilidades de programación y diseño.<br>
+    🎀 Trabajé en proyectos universitarios innovadores en front-end.<br>
+    🌷 He adquirido habilidades en lenguajes como TypeScript y JS.<br>
+    💗 Interesa más aprender sobre UI/UX y mejorar en front-end.
 </p>
 
 <br clear="all" />
 <br />
 
 <img align="right" width="250" alt="Coding Girl" src="https://github.com/ArianaOyola/ArianaOyola/blob/74e013e72b09684dbfb939519e374e2a208a4a70/assets/img%203.jpg" />
-<h3 align="center">🧲 Connect with Me:</h3>
+<h3 align="center"> 🩷 Conéctate conmigo 🌷</h3>
 <div align="center">
   <a href="mailto:aoyolasi30@ucvvirtual.edu.pe" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" width="65"/></a>
   <a href="https://www.linkedin.com/in/ariana-alejandra-oyola-silva/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="65"/></a>
@@ -48,7 +48,7 @@
 </div>
 <br />
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Tech Stack 🎀</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </div>
 <!-- Support -->
-<h3 align="center">💰 Support Me</h3>
+<h3 align="center">💰 Apoyame 🌸 </h3>
 <p align="center">
   <a href="https://buymeacoffee.com/arianasilvg">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
@@ -79,5 +79,5 @@
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="3" />
 </a>
 <p align="center">
-  🩷 Gracias por ver <strong>@ArianaOyola.</strong>
+  🩷 Gracias por ver <strong>@ArianaOyola.</strong> 🌷
 </p>
