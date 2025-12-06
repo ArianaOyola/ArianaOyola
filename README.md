@@ -49,7 +49,14 @@
   <a href="#" title="Discord: ariana_os"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" width="65"/></a>
   <a href="https://www.notion.so/Ariana-4cb7a3880dce4b3c9a80779338c1fcda?source=copy_link" target="_blank"><img src="https://img.icons8.com/color/96/000000/notion.png" alt="Notion" width="65"/></a>
 </div>
-
+<br />
+<br />
+<h3 align="center">🌸 Idiomas y herramientas que he puesto en mis manos </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,ts" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
+</div>
 <br />
 <br />
 <h3 align="center">💻 Tech Stack 🎀</h3>
