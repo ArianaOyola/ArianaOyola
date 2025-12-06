@@ -51,6 +51,8 @@
 </div>
 <br />
 <br />
+<br />
+<img align="left" alt="coding-gif" width="400" src="https://github.com/ArianaOyola/ArianaOyola/blob/592a88e75f791b8601b392e2bb15d4913d18f698/assets/gif-1.gif" />
 <h3 align="center">🌸 Idiomas y herramientas que he puesto en mis manos </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,java,ts" /><br>
