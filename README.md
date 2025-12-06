@@ -49,6 +49,9 @@
   <a href="#" title="Discord: ariana_os"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" width="65"/></a>
   <a href="https://www.notion.so/Ariana-4cb7a3880dce4b3c9a80779338c1fcda?source=copy_link" target="_blank"><img src="https://img.icons8.com/color/96/000000/notion.png" alt="Notion" width="65"/></a>
 </div>
+
+<br />
+<br />
 <h3 align="center">💻 Tech Stack 🎀</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
