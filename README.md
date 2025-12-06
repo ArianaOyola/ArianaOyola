@@ -41,13 +41,14 @@
   <a href="https://www.facebook.com/ariana.oyola.5?locale=es_LA" target="_blank"><img src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" width="65"/></a>
   <a href="https://www.instagram.com/ariana_oyola_/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="Instagram" width="65"/></a>
 
-  <br /> <a href="https://open.spotify.com/user/22qxlvslia2agftmj6h4fgsha?si=4070bb703b5d4f58" target="_blank"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify" width="65"/></a>
+  <br /> 
+
+  <a href="https://open.spotify.com/user/22qxlvslia2agftmj6h4fgsha?si=4070bb703b5d4f58" target="_blank"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="Spotify" width="65"/></a>
   <a href="https://www.reddit.com/user/arianaos30/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="Reddit" width="65"/></a>
   <a href="https://www.tiktok.com/@ariana_os30?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.icons8.com/color/96/000000/tiktok--v1.png" alt="TikTok" width="65"/></a>
   <a href="#" title="Discord: ariana_os"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="Discord" width="65"/></a>
+  <a href="https://www.notion.so/Ariana-4cb7a3880dce4b3c9a80779338c1fcda?source=copy_link" target="_blank"><img src="https://img.icons8.com/color/96/000000/notion.png" alt="Notion" width="65"/></a>
 </div>
-<br />
-
 <h3 align="center">💻 Tech Stack 🎀</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
