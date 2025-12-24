@@ -25,8 +25,8 @@
 <p>
   🌸 Actualmente estoy desarrollando mis habilidades de programación y diseño.<br>
     🎀 Trabajé en proyectos universitarios innovadores en front-end.<br>
-    🌷 He adquirido habilidades en lenguajes como TypeScript y JS.<br>
-    💗 Interesa más aprender sobre UI/UX y mejorar en front-end.
+    🌷 He adquirido habilidades en lenguajes como TypeScript y JS en proyectos univeritarios.<br>
+    💗 Me interesa más aprender sobre UI/UX y mejorar en front-end para proyectos a futuro.
 </p>
 
 <br clear="all" />
